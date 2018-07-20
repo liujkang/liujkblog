@@ -4,11 +4,11 @@
 
 # Site
 # Site 这里的配置，哪项配置反映在哪里，可以参考我的博客
-title: Choice's Blog
+title: 晨曦
 subtitle:
-description: Get busy living, Or get busy dying.
+description: 生活不止眼前的苟且，还有诗在远方
 keywords:
-author: Choice
+author: 小米虾
 # 语言 简体中文
 language: zh-Hans
 timezone:
@@ -16,10 +16,10 @@ timezone:
 # URL
 # 这项暂时不需要配置，绑定域名后，要创建 sitemap.xml 时再配置该项
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://onlinetool.com.cn/
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+#url: http://onlinetool.com.cn/
+#root: /
+#permalink: :year/:month/:day/:title/
+#permalink_defaults:
 
 # Directory
 #资源文件夹，放在里面的文件会上传到github中
